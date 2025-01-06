@@ -8,7 +8,7 @@ Based in India, I am a Mechatronics Engineer who enjoys exploring the intersecti
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,arduino,java,nodejs,linux,git,github,,react,bootstrap,eclipse,vscode,raspberrypi&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,arduino,java,nodejs,linux,git,github,react,bootstrap,eclipse,vscode,raspberrypi&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 [![ACCESS-CONTROL-ATTENDANCE-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=Prari2725&repo=ACCESS-CONTROL-ATTENDANCE-SYSTEM&theme=dark)](https://github.com/Prari2725/ACCESS-CONTROL-ATTENDANCE-SYSTEM)
